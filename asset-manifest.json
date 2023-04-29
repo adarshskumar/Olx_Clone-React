@@ -1,14 +1,14 @@
 {
-  "files": {
-    "main.css": "/Olx_Clone-React/static/css/main.7d6df2a0.css",
-    "main.js": "/Olx_Clone-React/static/js/main.a955acd4.js",
-    "static/media/olx-logo.png": "/Olx_Clone-React/static/media/olx-logo.b3f099a2fe7978c70944.png",
-    "index.html": "/Olx_Clone-React/index.html",
-    "main.7d6df2a0.css.map": "/Olx_Clone-React/static/css/main.7d6df2a0.css.map",
-    "main.a955acd4.js.map": "/Olx_Clone-React/static/js/main.a955acd4.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7d6df2a0.css",
-    "static/js/main.a955acd4.js"
-  ]
+  "main.css": "/Olx_Clone-React/static/css/main.a74882b2.chunk.css",
+  "main.js": "/Olx_Clone-React/static/js/main.2f4d146a.chunk.js",
+  "main.js.map": "/Olx_Clone-React/static/js/main.2f4d146a.chunk.js.map",
+  "static/js/1.4841cb22.chunk.js": "/Olx_Clone-React/static/js/1.4841cb22.chunk.js",
+  "static/js/1.4841cb22.chunk.js.map": "/Olx_Clone-React/static/js/1.4841cb22.chunk.js.map",
+  "runtime~main.js": "/Olx_Clone-React/static/js/runtime~main.577afa3c.js",
+  "runtime~main.js.map": "/Olx_Clone-React/static/js/runtime~main.577afa3c.js.map",
+  "static/media/olx-logo.png": "/Olx_Clone-React/static/media/olx-logo.12024631.png",
+  "static/css/main.a74882b2.chunk.css.map": "/Olx_Clone-React/static/css/main.a74882b2.chunk.css.map",
+  "index.html": "/Olx_Clone-React/index.html",
+  "precache-manifest.4c79c142e42bf92593473702b631a171.js": "/Olx_Clone-React/precache-manifest.4c79c142e42bf92593473702b631a171.js",
+  "service-worker.js": "/Olx_Clone-React/service-worker.js"
 }
