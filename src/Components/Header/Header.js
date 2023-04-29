@@ -18,7 +18,7 @@ function Header() {
     <div className="headerParentDiv">
       <div className="headerChildDiv">
         <div className="brandName">
-          <OlxLogo></OlxLogo>
+          <a href="/"> <OlxLogo></OlxLogo></a>
         </div>
         <div className="placeSearch">
           <Search></Search>
@@ -49,13 +49,15 @@ function Header() {
           firebase.auth().signOut();
           navigate('/login')
         }}>Logout</span>}
+        <a href='/create'>
         <div className="sellMenu">
           <SellButton onClick={()=>{navigate('/create')}}></SellButton>
           <div className="sellMenuContent">
-            <SellButtonPlus onClick={()=>{navigate('/create')}}></SellButtonPlus>
+            <SellButtonPlus></SellButtonPlus>
             <span onClick={()=>{navigate('/create')}}>SELL</span>
           </div>
         </div>
+        </a>
       </div>
     </div>
   );
